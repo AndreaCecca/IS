@@ -4,7 +4,6 @@
 #include <limits.h>
 #include <ctype.h>
 
-#include "config.h"
 #include "auth.h"
 #include "app.h"
 
