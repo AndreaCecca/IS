@@ -6,6 +6,7 @@
 
 #include "auth.h"
 #include "app.h"
+char[100] DB_PATH;
 
 /* --- Utility input --- */
 void read_line(const char *prompt, char *buf, size_t n){
